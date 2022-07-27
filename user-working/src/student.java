@@ -19,7 +19,9 @@ public class student {
     public void standInTheCorridor(){
         System.out.println("被罚站了");
     }
-
+    public void playGame(){
+        System.out.println("玩游戏");
+    }
 }
 
 
